@@ -11,8 +11,7 @@ Estudio y rediseño de la antena MIFA mediante simulaciones en CST Studio.
 |AntenaMIFA_Gaete_Ortiz.pdf|Informe del trabajo realizado|
 
 Accesoriamente, se facilita una presentación del trabajo accesible desde aqui:
-https://www.espressif.com/en/products/socs/esp32
-
+https://ingenieriaam.github.io/antena_mifa/
 Ante cualquier consulta, se invita al lector a recurrir a los issues de este repositorio y con gusto despejaremos sus dudas.
 
 Atte:
