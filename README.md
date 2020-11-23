@@ -1,5 +1,5 @@
 # Antena MIFA basada en diseño sobre ESP32
-[![esp32](https://ar.mouser.com/images/marketingid/2018/img/142687940.png?v=051920.1045)](https://www.espressif.com/en/products/socs/esp32)
+[![esp32](https://i1.wp.com/www.circuituncle.com/wp-content/uploads/2019/10/esp32.png?fit=416%2C416&ssl=1)](https://www.espressif.com/en/products/socs/esp32)
 Estudio y rediseño de la antena MIFA mediante simulaciones en CST Studio.
 
 ## en los archivos, ud encontrará:
