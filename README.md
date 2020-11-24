@@ -10,9 +10,6 @@ Estudio y rediseño de la antena MIFA mediante simulaciones en CST Studio.
 | MIFA_integration.cst | Antena con cotas accesorias para mayor comodidas en la variación de los parametros |
 |AntenaMIFA_Gaete_Ortiz.pdf|Informe del trabajo realizado|
 
-Accesoriamente, se facilita una presentación del trabajo accesible desde aqui:
-https://www.espressif.com/en/products/socs/esp32
-
 Ante cualquier consulta, se invita al lector a recurrir a los issues de este repositorio y con gusto despejaremos sus dudas.
 
 Atte:
